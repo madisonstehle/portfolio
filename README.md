@@ -13,18 +13,7 @@ Finish time: 4:32PM
 Actual time needed to complete: 32 minutes
 
 ## Feature 2
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
-
-## Feature 3
-Number and name of feature: ________________________________
+Number and name of feature: Feature #2: Modify the contents
 
 Estimate of time needed to complete: _____
 
