@@ -76,7 +76,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #ECF8F8;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 19pt;
   font-weight: 300;
@@ -96,14 +96,14 @@ body {
   }
 
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19pt;
+  font-family: 'Montserrat', sans-serif;  font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
   color: #888;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #666;
   line-height: 1.5em;
@@ -168,7 +168,7 @@ a {
 }
 
   a:hover {
-    color: #E27689;
+    color: #56CBF9;
     border-bottom-color: rgba(255, 255, 255, 0);
   }
 
@@ -201,4 +201,8 @@ p, ul, ol, dl, table {
 
 br.clear {
   clear: both;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
 }

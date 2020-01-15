@@ -217,6 +217,7 @@ button,
   position: relative;
   display: inline-block;
   border-radius: 0.35em;
+  font-family: 'Montserrat', sans-serif;
   color: #fff !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
@@ -349,7 +350,7 @@ button,
     }
 
       #header .icons a:hover {
-        color: #fff;
+        color: #A89B9D;
       }
 
 #logo {
@@ -361,7 +362,7 @@ button,
 
   #logo h1 {
     position: relative;
-    color: #fff;
+    color: #ECF8F8;
     font-weight: 600;
     font-size: 1em;
     line-height: 1em;
@@ -406,6 +407,7 @@ button,
     }
 
       #nav ul li a span {
+        font-family: 'Montserrat', sans-serif;
         position: relative;
         display: block;
         font-size: 0.8em;
@@ -423,11 +425,11 @@ button,
       #nav ul li a.active {
         background: rgba(0, 0, 0, 0.15);
         box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-        color: #fff;
+        color: #ECF8F8;
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color: #56CBF9;
         }
 
 /* Footer */
@@ -476,7 +478,7 @@ button,
   }
 
     #main > section.dark {
-      color: #ddd;
+      color: #ECF8F8;
       color: rgba(255, 255, 255, 0.75);
     }
 
@@ -485,12 +487,12 @@ button,
       }
 
       #main > section.dark strong {
-        color: #fff;
+        color: #ECF8F8;
         border-color: inherit;
       }
 
       #main > section.dark a {
-        color: #fff;
+        color: #ECF8F8;
         border-color: inherit;
       }
 
@@ -505,8 +507,8 @@ button,
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-color: #1B263B;
+      background-image: url("/images/liam-briese-Z3DCgR5-1r8-unsplash.jpg");
     }
 
     #main > section.two {

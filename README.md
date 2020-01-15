@@ -1,6 +1,8 @@
 # portfolio
 Personal Portfolio for Code 301
 
+Banner Photo by Liam Briese on Unsplash
+
 ## Feature 1
 Number and name of feature: Feature #1: Refactor the CSS
 
