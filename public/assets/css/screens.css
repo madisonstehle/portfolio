@@ -157,14 +157,14 @@
       -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
       backface-visibility: hidden;
-      -moz-transform: translateX(-275px);
+      /* -moz-transform: translateX(-275px);
       -webkit-transform: translateX(-275px);
       -ms-transform: translateX(-275px);
-      transform: translateX(-275px);
+      /* transform: translateX(-275px); */
       -moz-transition: -moz-transform 0.5s ease;
       -webkit-transition: -webkit-transform 0.5s ease;
-      -ms-transition: -ms-transform 0.5s ease;
-      transition: transform 0.5s ease;
+      -ms-transition: -ms-transform 0.5s ease; */
+      /* transition: transform 0.5s ease; */
       -webkit-overflow-scrolling: touch;
       display: block;
       height: 100%;
@@ -227,7 +227,7 @@
         border: 0;
       }
 
-        #headerToggle .toggle:before {
+        /* #headerToggle .toggle:before {
           font-family: FontAwesome;
           text-decoration: none;
           font-style: normal;
@@ -248,7 +248,7 @@
           width: 3.25em;
           height: 2.25em;
           line-height: 2.25em;
-        }
+        } */
 
     body.header-visible #main {
       -moz-transform: translateX(275px);
